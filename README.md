@@ -1,1 +1,1 @@
-Analyzed 100k orders from 2016-2018 for Target in Brazil. Insights on order processing, pricing, payment/shipping efficiency, customer demographics, product attributes, and satisfaction. Enhanced operations for exceptional value and guest experience.
+Analyzed Target's 100k orders placed between 2016 and 2018 in Brazil. Insights on order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels.
